@@ -1,5 +1,40 @@
+.body{
+    background-attachment: fixed;
+}
+
 .upper-section{
-    background-color: aqua;
-    margin-left: 400px;
-    border-radius: 10px;
+    background-color: rgb(123, 161, 185);
+    margin-left: 500px;
+    height: 400px;
+    width: 700px;
+    margin-top:-350px ;
+    border-radius: 25px;
+}
+
+.middle-section{
+    background-color: rgb(6, 66, 135);
+    margin-left: 500px;
+    height: 600px;
+    width: 700px;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+.lower-section{
+    background-color: rgb(123, 161, 185);
+    margin-left: 500px;
+    height: 100px;
+    width: 700px;
+    margin-top:10px ;
+    margin-bottom: -100px;
+    border-radius: 25px;
+}
+
+.side-bar{
+    background-color: rgb(6, 66, 135);
+    margin-left: 1300px;
+    height: 720px;
+    margin-top:-780px;
+    border-radius: 25px;
+    width: 275px;
 }
