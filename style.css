@@ -23,18 +23,19 @@
 .lower-section{
     background-color: rgb(123, 161, 185);
     margin-left: 500px;
-    height: 100px;
+    height: 40px;
     width: 700px;
     margin-top:20px ;
     margin-bottom: -100px;
-    border-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
 }
 
 .side-bar{
     background-color: rgb(6, 66, 135);
     margin-left: 1300px;
     height: 720px;
-    margin-top:-780px;
+    margin-top:-720px;
     border-radius: 25px;
     width: 275px;
 }
