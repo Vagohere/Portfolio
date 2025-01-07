@@ -9,6 +9,37 @@
     background-attachment: fixed;
 }
 
+.outer-circle{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 250px;
+    border: 10px solid rgb(74, 74, 74);
+    margin-top: -500px;
+    margin-left: -150px;
+
+
+}
+.inner-circle{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 250px;
+    border: 10px solid rgb(74, 74, 74);
+    margin-top: -370px;
+    margin-left: -100px;
+
+}
+
+.photo{
+    height: 250px;
+    width: 250px;
+    border-radius: 250px;
+    margin-top:25px;
+    margin-left: 25px;
+    
+}
+
 .upper-section{
     background-color: rgb(123, 161, 185);
     margin-left: 500px;
@@ -40,7 +71,7 @@
 .lower-section{
     background-color: rgb(123, 161, 185);
     margin-left: 500px;
-    height: 60px;
+    height: 80px;
     width: 760px;
     margin-top:20px ;
     margin-bottom: -100px;
@@ -52,7 +83,7 @@
     background-color: rgb(6, 66, 135);
     margin-left: 1300px;
     height: 685px;
-    margin-top:-730px;
+    margin-top:-750px;
     border-top-left-radius: 35px;
     border-bottom-left-radius: 35px;
     width: 150px;
