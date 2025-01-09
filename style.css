@@ -16,9 +16,17 @@
     border-radius: 250px;
     border: 10px solid rgb(74, 74, 74);
     margin-top: -500px;
-    margin-left: -150px;
+    margin-left: -145px;
 
 
+}
+.left-item1{
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 .inner-circle{
     height: 300px;
@@ -92,3 +100,13 @@
     color: white;
     font-family: "lemonmilk",sans-serif;
 }
+
+.inner-inner-circle{
+    height: 250px;
+    width: 250px;
+    border: solid rgb(83, 83, 83) 10px;
+    border-radius: 260px;
+    margin-left: 16px;
+    margin-top: -273px;
+}
+
