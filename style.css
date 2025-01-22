@@ -13,12 +13,12 @@
     height: 400px;
     width: 400px;
     background-color: rgb(255, 255, 255);
-    border-radius: 250px;
     border: 10px solid rgb(74, 74, 74);
+    border-radius: 250px;
     margin-top: -500px;
     margin-left: -145px;
-
-
+    
+    
 }
 .left-item1{
     height: 30px;
