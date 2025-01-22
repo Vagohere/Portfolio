@@ -110,3 +110,12 @@
     margin-top: -273px;
 }
 
+.upper-card{
+    height: 50px;
+    border-radius: 25px;
+    
+    width: 200px;
+    background-color: black;
+
+}
+
